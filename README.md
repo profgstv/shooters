@@ -1,24 +1,19 @@
-
 > Abrir essa página em [https://profgstv.github.io/shooters/](https://profgstv.github.io/shooters/)
 
-## Usar como extensão
+## Editar este projeto no MakeCode
 
-Este repositório pode ser adicionado como **extensão** no MakeCode.
+Para visualizar e editar este repositório:
 
-* abrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* clique em **Novo Projeto**
-* clique em **Extensões** em baixo do menu com ícone de engrenagem
-* procure por **https://github.com/profgstv/shooters** e importe
+* abrir o projeto diretamente no [MakeCode](https://makecode.microbit.org/_3WCchba2r7vK)
 
-## Editar este projeto
-
-Para editar este repositório no MakeCode.
-
+  OU
+  
 * abrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * clique em **Importar** e depois clique em **Importar URL**
-* cole **https://github.com/profgstv/shooters** e clique em importar
+* cole **https://github.com/profgstv/microbit-carrinho-de-controle-analogico-com-eixo** e clique em importar
 
-#### Metadados (usados para pesquisa, renderização)
+### [Repositório no GitHub](https://github.com/profgstv/shooters)
 
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+## Licença de Uso
+
+Este projeto foi desenvolvido no [Centro de Inovação da Educação Básica Paulista (CIEBP)](https://centrodeinovacao.educacao.sp.gov.br/), Unidade Ângelo Mendes. Seu uso está condicionado à [Licença MIT](/LICENSE) de código aberto, devendo ser creditado ao autor [profgstv](https://github.com/profgstv) e ao espaço CIEBP. Para maiores informações, agendamento de formação para professores e mentorias para alunos, entrar em contato pelo e-mail: ciebp.angelomendes@educacao.sp.gov.br .
